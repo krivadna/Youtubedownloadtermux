@@ -8,12 +8,14 @@ An easy-to-use YouTube video downloader for Termux Android Users.
 ```bash
 wget https://raw.githubusercontent.com/krivadna/Youtubedownloadtermux/main/bin/ytdl2 -O $PREFIX/bin/ytdl2
 ```
-
+```bash
+chmod +x $PREFIX/bin/ytdl2
+```
 
 ## Usage
 
 ```bash
-ytdl <YouTube URL>
+ytdl2 <YouTube URL>
 ```
 
 Example:
