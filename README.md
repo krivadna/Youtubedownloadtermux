@@ -68,6 +68,10 @@ All dependencies are automatically installed:
 - 🔄 Automatic updates
 - 🛠️ Error recovery system
 
+## 🚀 Live Demo
+
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/c/2308295199/44)
+
 ## 🌐 Connect With Me
 
 <div align="center">
