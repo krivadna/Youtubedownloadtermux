@@ -15,7 +15,7 @@ A powerful, lightweight YouTube video downloader written in C, specifically desi
   <img src="https://img.shields.io/badge/Built%20for-Termux-black?style=for-the-badge&logo=terminal&logoColor=white" alt="Built for Termux"/>
 </div>
 
-## ⚡ One-Line Installation
+## ⚡ One-Line Installation - Download the binary 
 
 ```bash
 wget https://raw.githubusercontent.com/krivadna/Youtubedownloadtermux/main/bin/ytdl2 -O $PREFIX/bin/ytdl2 && chmod +x $PREFIX/bin/ytdl2
