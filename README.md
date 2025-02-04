@@ -24,7 +24,7 @@ wget https://raw.githubusercontent.com/krivadna/Youtubedownloadtermux/main/bin/y
 ## 🚀 Usage
 
 ```bash
-ytdl2 <YouTube URL>
+ytdl <YouTube URL>
 ```
 
 ### Example:
