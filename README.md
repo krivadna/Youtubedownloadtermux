@@ -29,7 +29,7 @@ ytdl <YouTube URL>
 
 ### Example:
 ```bash
-ytdl2 https://youtube.com/watch?v=VIDEO_ID
+ytdl https://youtube.com/watch?v=VIDEO_ID
 ```
 
 ## 🎯 Features
