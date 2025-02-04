@@ -14,7 +14,7 @@ pip install --no-cache-dir -U yt-dlp
 # Create bin directory if it doesn't exist
 mkdir -p $PREFIX/bin
 
-# Download the compiled binary from GitHub Releases (replace with your actual username and repo)
+# Download the compiled binary from GitHub Releases
 wget https://github.com/krivadna/Youtubedownloadtermux/releases/download/v1.0/ytdl -O $PREFIX/bin/ytdl
 
 # Make it executable
