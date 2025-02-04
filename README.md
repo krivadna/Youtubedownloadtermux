@@ -1,7 +1,7 @@
 
 # Termux YouTube Downloader
 
-An easy-to-use YouTube video downloader for Termux.
+An easy-to-use YouTube video downloader for Termux Android Users.
 
 ## One-Line Installation
 
