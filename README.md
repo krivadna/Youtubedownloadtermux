@@ -6,7 +6,7 @@ An easy-to-use YouTube video downloader for Termux Android Users.
 ## One-Line Installation
 
 ```bash
-wget https://raw.githubusercontent.com/krivadna/Youtubedownloadtermux/main/bin/ytdl2 -O $PREFIX/bin/ytdl
+wget https://raw.githubusercontent.com/krivadna/Youtubedownloadtermux/main/bin/ytdl2 -O $PREFIX/bin/ytdl2
 ```
 
 
