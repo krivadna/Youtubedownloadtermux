@@ -18,7 +18,7 @@ A powerful, lightweight YouTube video downloader written in C, specifically desi
 ## ⚡ One-Line Installation - Download the binary 
 
 ```bash
-wget https://raw.githubusercontent.com/krivadna/Youtubedownloadtermux/main/bin/ytdl2 -O $PREFIX/bin/ytdl2 && chmod +x $PREFIX/bin/ytdl2
+wget https://raw.githubusercontent.com/krivadna/Youtubedownloadtermux/main/bin/ytdl -O $PREFIX/bin/ytdl && chmod +x $PREFIX/bin/ytdl
 ```
 
 ## 🚀 Usage
