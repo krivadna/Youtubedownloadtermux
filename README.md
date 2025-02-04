@@ -9,7 +9,7 @@
 [![Status](https://img.shields.io/badge/Status-Active-success.svg?style=flat-square)](https://github.com/krivadna/Youtubedownloadtermux)
 [![YouTube](https://img.shields.io/badge/YouTube-Support-red.svg?style=flat-square&logo=youtube)](https://youtube.com)
 
-A powerful, lightweight YouTube video downloader written in C, specifically designed for Termux Android users. Features an elegant ASCII art interface and comprehensive download options.
+A powerful, lightweight YouTube video downloader written in C, specifically designed for Termux Android users. Features an elegant interface and comprehensive download options.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Built%20for-Termux-black?style=for-the-badge&logo=terminal&logoColor=white" alt="Built for Termux"/>
