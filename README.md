@@ -38,6 +38,9 @@ All requirements will be automatically installed:
 - FFmpeg
 - yt-dlp
 
+##  Website
+
+[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/)
 
 ### 🌐 Connect With Me
 Contact for pricing and custom implementations.
