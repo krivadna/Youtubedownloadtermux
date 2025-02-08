@@ -3,6 +3,8 @@
 
 # 🎥 Termux YouTube Downloader
 
+![Animated Banner](https://i.imgur.com/qvZ7bXh.jpeg)
+
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android%20(Termux)-brightgreen.svg?style=flat-square&logo=android)](https://termux.com)
 [![Language](https://img.shields.io/badge/Language-C-blue.svg?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
