@@ -73,6 +73,10 @@ All dependencies are automatically installed:
 
 [![Watch Demo](https://img.shields.io/badge/Watch_Demo-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/c/2308295199/44)
 
+## ⭐ Show your support
+
+[![Support Project](https://img.shields.io/badge/Support_This_Project-Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kalkimahavatar)
+
 ## 🌐 Connect With Me
 
 <div align="center">
