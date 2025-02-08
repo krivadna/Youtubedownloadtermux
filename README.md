@@ -15,6 +15,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Built%20for-Termux-black?style=for-the-badge&logo=terminal&logoColor=white" alt="Built for Termux"/>
+
+  
   [![Star Repository](https://img.shields.io/badge/⭐_Star_This_Repo-yellow?style=for-the-badge&labelColor=black)](https://github.com/krivadna/Youtubedownloadtermux/stargazers)
 </div>
 
