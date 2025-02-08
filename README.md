@@ -73,6 +73,10 @@ All dependencies are automatically installed:
 
 [![Watch Demo](https://img.shields.io/badge/Watch_Demo-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/c/2308295199/44)
 
+## ⏯️ Instagram Downloader for Termux (ITDL)
+
+[![Check Repository](https://img.shields.io/badge/📥_Check_Repository-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/krivadna/termuxinstadownloader)
+
 ## ⭐ Show your support
 
 [![Support Project](https://img.shields.io/badge/Support_This_Project-Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kalkimahavatar)
