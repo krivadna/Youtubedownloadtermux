@@ -14,10 +14,12 @@
 > A powerful, lightweight YouTube video downloader written in C, specifically designed for Termux Android users. Features an elegant interface and comprehensive download options.
 
 <div align="center">
+  
+  [![Star Repository](https://img.shields.io/badge/⭐_Star_This_Repo-yellow?style=for-the-badge&labelColor=black)](https://github.com/krivadna/Youtubedownloadtermux/stargazers)
+
   <img src="https://img.shields.io/badge/Built%20for-Termux-black?style=for-the-badge&logo=terminal&logoColor=white" alt="Built for Termux"/>
 
   
-  [![Star Repository](https://img.shields.io/badge/⭐_Star_This_Repo-yellow?style=for-the-badge&labelColor=black)](https://github.com/krivadna/Youtubedownloadtermux/stargazers)
 </div>
 
 ## ⚡ One-Line Installation - Download the binary 
