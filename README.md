@@ -87,9 +87,7 @@ All dependencies are automatically installed:
 
 [![Check Repository](https://img.shields.io/badge/📥_Check_Repository-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/krivadna/xdlbykalki)
 
-## ⏯️ YouTube Downloader for Termux (YTDL)
 
-[![Check Repository](https://img.shields.io/badge/📥_Check_Repository-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/krivadna/Youtubedownloadtermux)
 
 ## ⭐ Show your support
 
