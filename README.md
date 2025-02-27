@@ -85,7 +85,7 @@ All dependencies are automatically installed:
 
 ## ⏯️ X Twitter Downloader for Termux (XDL)
 
-[![Check Repository](https://img.shields.io/badge/📥_Check_Repository-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=black)]([https://github.com/krivadna/xdlbykalki)
+[![Check Repository](https://img.shields.io/badge/📥_Check_Repository-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/krivadna/xdlbykalki)
 
 ## ⭐ Show your support
 
