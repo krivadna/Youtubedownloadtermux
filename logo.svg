@@ -4,7 +4,7 @@
   
   <!-- Header -->
   <rect x="50" y="30" width="700" height="70" rx="10" fill="#1E1E1E" />
-  <text x="400" y="70" font-family="Arial" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">COMMAND LINE SOCIAL MEDIA DOWNLOADERS</text>
+  <text x="400" y="70" font-family="Arial" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">COMMAND LINE SOCIAL MEDIA CONTENT DOWNLOADERS</text>
   <text x="400" y="95" font-family="Arial" font-size="18" fill="#00BFFF" text-anchor="middle">by CYBER KALKI</text>
   
   <!-- Tool Cards -->
