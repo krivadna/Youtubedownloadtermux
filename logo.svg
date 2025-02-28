@@ -50,5 +50,5 @@
   
   <!-- Footer -->
   <rect x="50" y="440" width="700" height="40" rx="5" fill="#1E1E1E" />
-  <text x="400" y="465" font-family="Arial" font-size="14" fill="#FFFFFF" text-anchor="middle">@codeontermux • Audio/Video Downloaders for Termux • No Obsolete Packages</text>
+  <text x="400" y="465" font-family="Arial" font-size="14" fill="#FFFFFF" text-anchor="middle">Join Telegram channel @codeontermux • Audio/Video Downloaders for Termux • No Obsolete Packages</text>
 </svg>
