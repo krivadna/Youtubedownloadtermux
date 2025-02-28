@@ -10,7 +10,6 @@
   <!-- Tool Cards -->
   <!-- YouTube Downloader -->
   <rect x="65" y="130" width="220" height="290" rx="10" fill="#1E1E1E" stroke="#FF0000" stroke-width="2" />
-  <!-- YouTube Logo (simplified) -->
   <rect x="125" y="150" width="100" height="70" rx="15" fill="#FF0000" />
   <polygon points="175,165 195,185 155,185" fill="#FFFFFF" />
   <text x="175" y="250" font-family="Arial" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">YouTube Downloader</text>
@@ -21,7 +20,6 @@
 
   <!-- Instagram Downloader -->
   <rect x="295" y="130" width="220" height="290" rx="10" fill="#1E1E1E" stroke="#E1306C" stroke-width="2" />
-  <!-- Instagram Logo (simplified) -->
   <rect x="355" y="150" width="100" height="70" rx="20" stroke="#E1306C" stroke-width="8" fill="none" />
   <circle cx="405" cy="185" r="20" stroke="#E1306C" stroke-width="8" fill="none" />
   <circle cx="435" cy="155" r="5" fill="#E1306C" />
@@ -33,7 +31,6 @@
   
   <!-- X/Twitter Downloader -->
   <rect x="525" y="130" width="220" height="290" rx="10" fill="#1E1E1E" stroke="#1DA1F2" stroke-width="2" />
-  <!-- X Logo (simplified) -->
   <text x="635" y="205" font-family="Arial" font-size="70" font-weight="bold" fill="#FFFFFF" text-anchor="middle">𝕏</text>
   <text x="635" y="250" font-family="Arial" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">X/Twitter Downloader</text>
   <text x="635" y="270" font-family="Arial" font-size="14" fill="#CCCCCC" text-anchor="middle">for Termux (XDL)</text>
@@ -41,16 +38,15 @@
   <text x="635" y="315" font-family="monospace" font-size="11" fill="#00BFFF" text-anchor="middle">github.com/krivadna/</text>
   <text x="635" y="335" font-family="monospace" font-size="11" fill="#00BFFF" text-anchor="middle">xdlbykalki</text>
   
-  <!-- Terminal Icons -->
-  <rect x="135" y="370" width="80" height="30" rx="5" fill="#000000" stroke="#333333" />
-  <text x="175" y="390" font-family="monospace" font-size="12" fill="#00FF00" text-anchor="middle">./ytdl</text>
+  <!-- Terminal Icons (Increased Width) -->
+  <rect x="115" y="370" width="120" height="30" rx="5" fill="#000000" stroke="#333333" />
+  <text x="175" y="390" font-family="monospace" font-size="12" fill="#00FF00" text-anchor="middle">$ ./ytdl</text>
   
-  <rect x="365" y="370" width="80" height="30" rx="5" fill="#000000" stroke="#333333" />
-  <text x="635" y="490" font-family="monospace" font-size="12" fill="#00FF00" text-anchor="middle">./itdlbykalki</text>
+  <rect x="345" y="370" width="120" height="30" rx="5" fill="#000000" stroke="#333333" />
+  <text x="405" y="390" font-family="monospace" font-size="12" fill="#00FF00" text-anchor="middle">$ ./itdlbykalki</text>
   
-  <rect x="595" y="370" width="80" height="30" rx="5" fill="#000000" stroke="#333333" />
-
-<text x="635" y="450" font-family="monospace" font-size="12" fill="#00FF00" text-anchor="middle">./xdlbykalki</text>
+  <rect x="575" y="370" width="120" height="30" rx="5" fill="#000000" stroke="#333333" />
+  <text x="635" y="390" font-family="monospace" font-size="12" fill="#00FF00" text-anchor="middle">$ ./xdlbykalki</text>
   
   <!-- Footer -->
   <rect x="50" y="440" width="700" height="40" rx="5" fill="#1E1E1E" />
