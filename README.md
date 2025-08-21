@@ -91,7 +91,7 @@ All dependencies are automatically installed:
 
 ## ⭐ Show your support
 
-[![Support Project](https://img.shields.io/badge/Support_This_Project-Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kalkimahavatar)
+[![Support Project](https://img.shields.io/badge/Support_This_Project-Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/kalkikrivadna)
 
 ## 🌐 Connect With Me
 
